@@ -1,0 +1,10 @@
+h3{
+    background: black;
+    color: white;
+    display: inline-block;
+    box-shadow: 3px 3px 5px red;
+}
+p{
+    background: violet;
+    color: blue;
+}
